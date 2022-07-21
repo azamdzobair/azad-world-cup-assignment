@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+/* This is a body */
+
 body {
     font-family: 'Lobster', cursive;
     font-family: 'Pacifico', cursive;
@@ -11,7 +13,7 @@ body {
 }
 
 
-
+/* This is a header */
 
 .full-header {
     display: flex;
@@ -83,7 +85,7 @@ body {
 }
 
 
-
+/* This is a header image */
 
 .header-img {
     position: absolute;
@@ -93,6 +95,8 @@ body {
     top: 86px;
 }
 
+
+/* This is a main blog */
 
 
 
@@ -105,6 +109,8 @@ body {
 
 
 }
+
+/* This is a navbar */
 
 .nav {
     display: flex;
@@ -139,7 +145,7 @@ body {
     background-color: #DD0000;
 }
 
-
+/* This is a main contain */
 
 .main-content {
 
@@ -216,6 +222,10 @@ body {
 
 }
 
+
+/* This is a footer */
+
+
 .footer-content {
     width: 100%;
     height: 445px;
@@ -257,6 +267,11 @@ body {
 .footer-text li a:hover {
     color: #DD0000;
 }
+
+
+
+/* This is a social icon */
+
 
 .social-media-icons {
     display: flex;
